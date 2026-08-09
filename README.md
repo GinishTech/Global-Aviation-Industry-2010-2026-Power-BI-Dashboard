@@ -65,7 +65,5 @@ were kept as separate facts rather than forced into a single relationship
 — a deliberate data-quality decision rather than an oversight.
 
 ## 👤 Author -> Ginish Kumar
-
-[LinkedIn](www.linkedin.com/in/ginish-kumar-544b2a1b4)
-
-[GitHub](https://github.com/GinishTech)
+www.linkedin.com/in/ginish-kumar-544b2a1b4
+https://github.com/GinishTech
