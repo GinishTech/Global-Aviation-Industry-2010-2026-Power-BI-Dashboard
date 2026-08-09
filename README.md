@@ -24,6 +24,9 @@ dimensions, and presents the findings across six interactive report pages.
 
 ## 🛠️ Tools & techniques
 
+
+<img width="600" height="359" alt="All Tables" src="https://github.com/user-attachments/assets/c182c5c7-876e-4929-8ea7-473474530215" />
+
 - Power BI Desktop (data modeling, report design)
 - DAX (custom measures: YoY growth, book-to-bill ratio, fatal incident rate)
 - Power Query / star-schema data modeling
