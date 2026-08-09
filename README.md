@@ -64,8 +64,8 @@ table (airline naming inconsistencies across sources), so those tables
 were kept as separate facts rather than forced into a single relationship
 — a deliberate data-quality decision rather than an oversight.
 
-## 👤 Author
+## 👤 Author -> Ginish Kumar
 
-Ginish Kumar
-[LinkedIn](www.linkedin.com/in/ginish-kumar-544b2a1b4) · 
+[LinkedIn](www.linkedin.com/in/ginish-kumar-544b2a1b4)
+
 [GitHub](https://github.com/GinishTech)
